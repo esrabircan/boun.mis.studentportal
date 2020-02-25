@@ -1,4 +1,4 @@
 # boun.mis.studentportal
 
 
-jnfkjbfkjsb
+deneme
